@@ -16,7 +16,7 @@ if __name__ == '__main__':
     channel_types = {'LOc':'eog','ROc':'eog','Aux1':'misc'}
     raw.set_channel_types(channel_types)
 
-    raw_ref ,_  = mne.set_eeg_reference(raw,
+    raw_ref, _  = mne.set_eeg_reference(raw,
                                         ref_channels     = 'average',
                                         projection       = True,)
     raw_ref.apply_proj() # it might tell you it already has been re-referenced, but do it anyway
@@ -24,9 +24,6 @@ if __name__ == '__main__':
     # read standard montage - montage is important for visualization
     montage = mne.channels.make_standard_montage('standard_1020',);#montage.plot();#montage.plot()
     raw.set_montage(montage)
-    # print some information about the data
-    
-    # plot a small chunk of the data
 
     # Create the "images" folder if it doesn't exist
     if not os.path.exists('gif_plots/lowpass'):
@@ -36,10 +33,10 @@ if __name__ == '__main__':
     raw.pick_channels(channelList)
 
     for i, lowpass in enumerate(np.geomspace(300., 30.)):
-        raw.plot(duration = 1,
-                start = 1000,
-                scalings = dict(eeg=10e-6, eog=150e-6,),
-                lowpass = lowpass,
-                highpass = 1)
+        raw.plot(duration=1,
+                 start=1000,
+                 scalings=dict(eeg=10e-6, eog=150e-6,),
+                 lowpass=lowpass,
+                 highpass=1)
         
         plt.savefig(f'gif_plots/lowpass/plot_l{lowpass:.6f}.png')

@@ -16,6 +16,5 @@ if __name__ == '__main__':
         plt.ylabel("Hz")
         plt.xticks([])
 
-  
         plt.savefig(f'gif_plots/freq_L_plot/freq_l{lowpass:.6f}.png')
         plt.clf()

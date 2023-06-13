@@ -1,0 +1,121 @@
+Onset,Annotation
++0.0000000,Marker:Markon:w
++29.8123382,Marker:Markoff:w
++30.2264883,Marker:Markon:w
++59.8212398,Marker:Markoff:w
++60.2224477,Marker:Markon:w
++89.8199456,Marker:Markoff:w
++90.2082113,Marker:Markon:w
++119.8199456,Marker:Markoff:w
++120.1952691,Marker:Markon:w
++149.8341820,Marker:Markoff:w
++150.1577368,Marker:Markon:w
++179.7979439,Marker:Markoff:w
++180.1732674,Marker:Markon:w
++209.8082976,Marker:Markoff:w
++210.2095056,Marker:Markon:w
++239.8082976,Marker:Markoff:w
++240.1577368,Marker:Markon:w
++269.7630000,Marker:Markoff:w
++270.2237420,Marker:Markon:w
++299.8212398,Marker:Markoff:w
++300.1577368,Marker:Markon:w
++329.8210000,Marker:Markoff:w
++330.2350000,Marker:Markon:w
++359.7820000,Marker:Markoff:w
++360.2090000,Marker:Markon:w
++389.8151242,Marker: Markoff: 1
++390.2292743,Marker: Markon: 1 
++419.8150000,Marker: Markoff: 1
++420.2290000,Marker: Markon: 1 
++449.8150000,Marker: Markoff: 1
++450.2290000,Marker: Markon: 1 
++479.8150000,Marker: Markoff: 1
++480.2290000,Marker: Markon: 1 
++509.8150000,Marker: Markoff: 1
++510.2290000,Marker: Markon: 1 
++539.8150000,Marker: Markoff: 1
++540.2290000,Marker: Markon: 1 
++569.8150000,Marker: Markoff: 1
++570.2290000,Marker: Markon: 1 
++599.8150000,Marker: Markoff: 1
++600.2290000,Marker: Markon: 1 
++629.8150000,Marker: Markoff: 1
++630.2290000,Marker: Markon: 1 
++659.8150000,Marker: Markoff: 1
++660.2290000,Marker: Markon: 1 
++689.8150000,Marker: Markoff: 1
++690.2290000,Marker: Markon: 1 
++719.8150000,Marker: Markoff: 1
++720.2290000,Marker: Markon: 1 
++749.8150000,Marker: Markoff: 1
++750.2290000,Marker: Markon: 1 
++779.8150000,Marker: Markoff: 1
++780.2290000,Marker: Markon: 1 
++809.8150000,Marker: Markoff: 1
++810.2290000,Marker: Markon: 1 
++839.8150000,Marker: Markoff: 1
++840.2290000,Marker: Markon: 1 
++869.8150000,Marker: Markoff: 1
++870.2290000,Marker: Markon: 1 
++899.8150000,Marker: Markoff: 1
++900.2290000,Marker: Markon: 1 
++929.8150000,Marker: Markoff: 1
++930.2290000,Marker: Markon: 1 
++959.8150000,Marker: Markoff: 1
++960.2290000,Marker: Markon: 1 
++989.8150000,Marker: Markoff: 1
++990.2290000,Marker: Markon: 1 
++1019.8150000,Marker: Markoff: 1
++1020.2290000,Marker: Markon: 1 
++1049.8150000,Marker: Markoff: 1
++1050.2290000,Marker: Markon: 1 
++1069.8519508,spindle
++1079.8150000,Marker: Markoff: 1
++1080.2290000,Marker: Markon: 1 
++1109.8150000,Marker: Markoff: 1
++1110.2290000,Marker: Markon: 1 
++1139.8150000,Marker: Markoff: 1
++1140.2290000,Marker: Markon: 1 
++1169.8150000,Marker: Markoff: 1
++1170.2290000,Marker: Markon: 1 
++1199.8150000,Marker: Markoff: 1
++1200.2290000,Marker: Markon: 1 
++1229.8150000,Marker: Markoff: 1
++1230.2290000,Marker: Markon: 1 
++1259.8150000,Marker: Markoff: 1
++1260.2290000,Marker: Markon: 1 
++1289.8150000,Marker: Markoff: 1
++1290.2290000,Marker: Markon: 1 
++1319.8150000,Marker: Markoff: 1
++1320.2290000,Marker: Markon: 1 
++1349.8150000,Marker: Markoff: 1
++1350.2290000,Marker: Markon: 1 
++1379.8150000,Marker: Markoff: 1
++1380.2290000,Marker: Markon: 1 
++1409.8150000,Marker: Markoff: 1
++1410.2290000,Marker: Markon: 1 
++1439.8150000,Marker: Markoff: 1
++1440.2290000,Marker: Markon: 1 
++1469.8150000,Marker: Markoff: 1
++1470.2290000,Marker: Markon: 1 
++1499.8150000,Marker: Markoff: 1
++1500.2290000,Marker: Markon: 1 
++1529.8150000,Marker: Markoff: 1
++1530.2290000,Marker: Markon: 1 
++1559.8150000,Marker: Markoff: 1
++1560.2290000,Marker: Markon: 1 
++1589.8150000,Marker: Markoff: 1
++1590.2290000,Marker: Markon: 1 
++1619.8150000,Marker: Markoff: 1
++1620.2290000,Marker: Markon: 1 
++1649.8150000,Marker: Markoff: 1
++1650.2290000,Marker: Markon: 1 
++1679.8150000,Marker: Markoff: 1
++1680.2290000,Marker: Markon: 1 
++1709.8150000,Marker: Markoff: 1
++1710.2290000,Marker: Markon: 1 
++1739.8150000,Marker: Markoff: 1
++1740.2290000,Marker: Markon: 1 
++1769.8150000,Marker: Markoff: 1
++1770.2290000,Marker: Markon: 1 

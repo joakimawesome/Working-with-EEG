@@ -1,0 +1,151 @@
+Onset,Annotation
++0.0000000,Marker:Markon: w
++29.8433691,Marker:Markoff: w
++30.1750000,Marker:Markon: w
++59.8627823,Marker:Markoff: w
++60.1730000,Marker:Markon: w
++89.8260000,Marker:Markoff: w
++90.1370000,Marker:Markon: w
++119.8010000,Marker:Markoff: w
++120.1750000,Marker:Markon: 1
++149.8320000,Marker:Markoff: 1
++150.1940000,Marker:Markon: 1
++179.8320000,Marker:Markoff: 1
++180.1940000,Marker:Markon: 1
++195.0189573,k-complex
++209.8320000,Marker:Markoff: 1
++210.1940000,Marker:Markon: 1
++239.8320000,Marker:Markoff: 1
++240.1940000,Marker:Markon: 1
++269.8320000,Marker:Markoff: 1
++270.1940000,Marker:Markon: 1
++299.8320000,Marker:Markoff: 1
++300.1940000,Marker:Markon: 1
++329.8320000,Marker:Markoff: 1
++330.1940000,Marker:Markon: 1
++359.8320000,Marker:Markoff: 1
++360.1940000,Marker:Markon: 1
++369.9925332,k-complex
++389.8320000,Marker:Markoff: 1
++390.1940000,Marker:Markon: 1
++419.2070000,spindle
++419.8320000,Marker:Markoff: 1
++420.1940000,Marker:Markon: 1
++449.8320000,Marker:Markoff: 1
++450.1940000,Marker:Markon: 1
++474.8208912,k-complex
++475.4382338,spindle
++479.8320000,Marker:Markoff: 1
++480.1940000,Marker:Markon: 2
++482.5900888,spindle
++505.0642044,spindle
++509.8320000,Marker:Markoff: 2
++510.1940000,Marker:Markon: 2
++539.8320000,Marker:Markoff: 2
++540.1940000,Marker:Markon: 2
++549.6663899,spindle
++555.1194245,spindle
++562.6784693,spindle
++569.8320000,Marker:Markoff: 2
++570.1940000,Marker:Markon: 2
++577.6595452,spindle
++594.2190792,spindle
++599.8320000,Marker:Markoff: 2
++600.1940000,Marker:Markon: 2
++612.5607530,spindle
++629.8320000,Marker:Markoff: 2
++630.1820000,Marker:Markon: SWS
++641.9667064,spindle
++657.4183889,k-complex
++659.8690000,Marker:Markoff: SWS
++660.2050000,Marker:Markon: SWS
++689.9000000,Marker:Markoff: SWS
++690.1590000,Marker:Markon: SWS
++691.6776641,spindle
++717.6060506,spindle
++719.8480000,Marker:Markoff: SWS
++720.1840000,Marker:Markon: SWS
++749.8220000,Marker:Markoff: SWS
++750.1840000,Marker:Markon: SWS
++779.3752482,spindle
++779.8510000,Marker:Markoff: SWS
++780.2130000,Marker:Markon: SWS
++809.8380000,Marker:Markoff: SWS
++810.2000000,Marker:Markon: SWS
++811.1832723,k-complex
++834.4940000,spindle
++839.8740000,Marker:Markoff: SWS
++840.1840000,Marker: Markon:SWS
++869.8740000,Marker:Markoff: SWS
++870.1840000,Marker: Markon:SWS
++899.8740000,Marker:Markoff: SWS
++900.1840000,Marker: Markon:SWS
++928.0616157,k-complex
++929.8740000,Marker:Markoff: SWS
++930.1840000,Marker: Markon:SWS
++946.9196829,spindle
++959.8740000,Marker:Markoff: SWS
++960.1840000,Marker: Markon:SWS
++989.8740000,Marker:Markoff: SWS
++990.1840000,Marker: Markon:SWS
++996.4790819,Spindle
++999.6628610,Spindle
++1019.8740000,Marker:Markoff: SWS
++1020.1840000,Marker: Markon:SWS
++1049.8740000,Marker:Markoff: SWS
++1050.1840000,Marker: Markon:SWS
++1078.3850353,Spindle
++1079.8740000,Marker:Markoff: SWS
++1080.1840000,Marker: Markon:SWS
++1095.5619119,Spindle
++1109.8740000,Marker:Markoff: SWS
++1110.1840000,Marker: Markon:SWS
++1139.8740000,Marker:Markoff: SWS
++1140.1840000,Marker: Markon:SWS
++1151.0295565,Spindle
++1169.8740000,Marker:Markoff: SWS
++1170.1840000,Marker: Markon:SWS
++1199.8740000,Marker:Markoff: SWS
++1200.1840000,Marker: Markon:SWS
++1222.9286074,Spindle
++1229.8740000,Marker:Markoff: SWS
++1230.1840000,Marker: Markon:SWS
++1259.8740000,Marker:Markoff: SWS
++1260.1840000,Marker: Markon:SWS
++1284.3755444,Spindle
++1289.8740000,Marker:Markoff: SWS
++1290.1840000,Marker: Markon:SWS
++1319.8740000,Marker:Markoff: SWS
++1320.1840000,Marker: Markon:SWS
++1349.8740000,Marker:Markoff: SWS
++1350.1840000,Marker: Markon:SWS
++1379.8740000,Marker:Markoff: SWS
++1380.1840000,Marker: Markon:SWS
++1390.7707126,Spindle
++1409.8740000,Marker:Markoff: SWS
++1410.1840000,Marker: Markon:SWS
++1415.9639827,Spindle
++1439.8740000,Marker:Markoff: SWS
++1440.1840000,Marker: Markon:SWS
++1469.8740000,Marker:Markoff: SWS
++1470.1840000,Marker: Markon:SWS
++1499.8740000,Marker:Markoff: SWS
++1500.1840000,Marker: Markon:SWS
++1529.8740000,Marker:Markoff: SWS
++1530.1840000,Marker: Markon:SWS
++1559.8740000,Marker:Markoff: SWS
++1560.1840000,Marker: Markon:SWS
++1589.8740000,Marker:Markoff: SWS
++1590.1840000,Marker: Markon:SWS
++1619.8740000,Marker:Markoff: SWS
++1620.1840000,Marker: Markon:SWS
++1649.8740000,Marker:Markoff: SWS
++1650.1840000,Marker: Markon:SWS
++1679.8740000,Marker:Markoff: SWS
++1680.1840000,Marker: Markon:SWS
++1709.8740000,Marker:Markoff: SWS
++1710.1840000,Marker: Markon:SWS
++1739.8740000,Marker:Markoff: SWS
++1740.1840000,Marker: Markon:SWS
++1769.8740000,Marker:Markoff: SWS
++1770.1840000,Marker: Markon:SWS
